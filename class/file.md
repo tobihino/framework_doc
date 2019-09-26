@@ -31,9 +31,6 @@ array
 $rs = \core\get_list();
 ```
 
-
-
-
 ## public static function path_join(...$path)
 
 指定した複数の文字列をパス形式に整形しながら連結します。
