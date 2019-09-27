@@ -2,4 +2,5 @@
 
 |ライブラリ名|概要|URL|
 |----|----|----|
-|Twig|表示に使用|https://twig.symfony.com/|
+|Twig|テンプレートエンジン|https://twig.symfony.com/|
+|Bootstrap|フロントエンドWebアプリケーションフレームワーク|https://getbootstrap.com/|
