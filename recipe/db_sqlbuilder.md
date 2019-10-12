@@ -1,8 +1,5 @@
 ## SELECT / INSERT / UPDATAE / DELETE の SQL を発行できます。
 
-
-
-
 ## JOIN 句の書き方
 
 ```

@@ -2,6 +2,11 @@
 
 Field クラスは、Fieldset クラスで利用する、Field オブジェクトを宣言するクラスです。
 
+|変数名|説明|
+|----|----|
+|$is_valid|フィールドセットのエラーチェック結果<br>true : 成功<br>false : 失敗|
+|
+
 |関数名|
 |----|
 |public function __construct($name, $property=[])|
